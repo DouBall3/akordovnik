@@ -1,0 +1,42 @@
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.3em !important;
+	text-transform: none !important;
+}
+.post {
+	margin-bottom: 60px;
+}
+.chord
+{
+	color: #0056b3;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.3em;
+	line-height: 2;
+}
+.verse
+{
+	color: #00;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+.chords
+{
+	color: #0056b3;
+	font-weight: bold;
+}
+.band-name
+{
+	color: firebrick;
+	font-size: 2em;
+	font-weight: bold;
+}
+.song-name
+{
+	color: crimson;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.hidden{
+	display: none;
+}

@@ -1,0 +1,41 @@
+.chord
+{
+	color: #000000;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+.verse
+{
+	color: #00;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+.chords
+{
+	color: #000000;
+	font-weight: bold;
+	font-size: 1em;
+}
+.band-name
+{
+	color: firebrick;
+	font-size: 2em;
+	font-weight: bold;
+}
+.song-name
+{
+	color: crimson;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.hidden{
+	display: none;
+}
+a {
+color:cornflowerblue;	
+}
+a:hover {
+	color:blueviolet;
+	cursor: pointer;
+}
